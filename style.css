@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: rgba(246,248,249,255);
 }
 
 .box {
@@ -44,7 +44,7 @@ body {
 }
 
 hr {
-    border: 1px solid #bcbcbc;
+    border: 1px solid #e3e3e3;
   }
 
 .bottone{
@@ -59,7 +59,7 @@ hr {
   }
   
   .task {
-    background-color: #007bff;
+    background-color: rgba(69,171,234,255);
     color: #ffffff;
   }
   
@@ -100,4 +100,36 @@ hr {
   .non-fatto { 
     border: 1px solid #ff0000;
     color: #ff0000;
+  }
+
+  .contorno {
+    color: #ffffff;
+    padding: 7px;
+    font-size: 8px;
+    height: 15px;
+    border-radius: 10px;
+  }
+
+  .blu {
+    background-color: rgba(69,171,234,255);
+  }
+  
+  .viola {
+    background-color: rgba(156,114,228,255);
+  }
+  
+  .verde1 {
+    background-color: rgba(100,192,169,255);
+  }
+  
+  .arancione{
+    background-color: rgba(242,158,51,255);
+  }
+  
+  .rosa {
+    background-color: rgba(216,99,161,255);
+  }
+  
+  .verde2 {
+    background-color: rgba(176,201,38,255);
   }
