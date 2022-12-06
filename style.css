@@ -8,9 +8,37 @@ body {
     background-color: grey;
 }
 
-.logo {
+.box {
+    height: 100px;
     margin: 0 auto;
-   
     border: 1px solid white;
     background: border-box white;
+    
 }
+
+.logo {
+    height: 80px;
+    margin-block-start: 10px;
+    margin-left: 40px;
+}
+
+.titolo{
+
+    margin: -65px 0 20px 0;
+    margin-left: 130px;
+    
+
+}
+
+.boxbutton {
+  margin: auto;
+  background-color: #FFFFFF;
+  height: 630px;
+  width: 700px;
+  border-radius: 5px;
+  padding-top: 10px;
+}
+
+.bottone{
+    padding: 20px 40px;
+  }
